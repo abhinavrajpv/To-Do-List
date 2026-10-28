@@ -21,6 +21,3 @@ A clean, safe, and modern To-Do application built from scratch with zero pre-loa
    - No external database, no accounts, and no tracking. All data lives strictly in your phone or browser's private local storage. It cannot be hacked or leaked over the internet.
 
 --
-# Zenith Tasks
-
-### 🚀 [View Live Demo](https://github.io)
